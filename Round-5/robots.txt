@@ -1,0 +1,3 @@
+User Allow *
+Disallow*
+	/s3cr37.txt
